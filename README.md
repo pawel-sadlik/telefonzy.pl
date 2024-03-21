@@ -1,0 +1,1 @@
+# telefonzy.pl
